@@ -1,1 +1,1 @@
-# 36-Volt-Buck-Converter
+# 48V-36-Volt-Buck-Converter
